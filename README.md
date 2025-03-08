@@ -1,4 +1,4 @@
-# Solving Programming Book Problems in Four Languages  
+# Solving Programming   
 This repository contains solutions to a set of programming problems from specialized programming books, implemented in four different languages:  
 
 - **C++** 🔷  
