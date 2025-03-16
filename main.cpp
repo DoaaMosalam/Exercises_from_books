@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "exercise/exerciseOne.h"
+#include "HowToProgramC++/Chapter_2/numbers.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/amount_dollars.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/arthimatic.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/favorityPoem.h"
@@ -15,14 +16,24 @@ int main()
     /*
      * solving problem from Object Oriented Programming in C++ book
      */
-    // chapter 2
+
+    /*Chapter 2*/
     // gallons();
     // table();
     // arthimatic();
     // favoritePoem();
     // isLower();
-    anoumt_in_dollars();
+    amount_dollars amount_dollars;
+    amount_dollars.anoumt_in_dollars();
+    // anoumt_in_dollars();
     //===============================================================================================
+    /*
+     * solving problem from How to program C++ book
+     */
+
+    numbers numbers;
+    numbers.arthimatic();
+    // =============================================================================================
     exerciseOne::exerciseOne exerciseOne;
     // exerciseOne.areaOfSphere();
     // exerciseOne.KelvinandFahrenheit();
