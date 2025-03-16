@@ -22,6 +22,7 @@ public:
         cout << "1 2 3 4" << endl;
     }
 
+
     void printNumbersWithFourStream() {
         cout << "1 " << "2 " << "3 " << "4" << endl;
     }
