@@ -15,4 +15,6 @@ add_executable(Exercises_from_books main.cpp
         ObjectOrientedProgrammingInc++/Chapter_2/isLower.h
         ObjectOrientedProgrammingInc++/Chapter_2/amount_dollars.h
         HowToProgramC++/Chapter_2/numbers.h
+        HowToProgramC++/Chapter_2/printing.h
+        HowToProgramC++/Chapter_2/chapterTwo.h
 )

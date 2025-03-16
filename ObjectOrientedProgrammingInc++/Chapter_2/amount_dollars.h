@@ -29,4 +29,4 @@ public:
         cout<<"your amount is: " <<amount << " The amount is deutschemark is: " << amount * deutschemark <<endl;
         cout<<"your amount is: " <<amount << " The amount is yen is: " << amount * yen <<endl;
     }
-}
+};
