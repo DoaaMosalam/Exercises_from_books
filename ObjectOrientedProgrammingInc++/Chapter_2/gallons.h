@@ -4,7 +4,6 @@
 
 #ifndef GALLONS_H
 #define GALLONS_H
-#include <iomanip>
 #include <iostream>
 
 using namespace std;
