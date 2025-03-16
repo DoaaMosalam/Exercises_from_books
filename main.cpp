@@ -2,6 +2,7 @@
 
 #include "exercise/exerciseOne.h"
 #include "HowToProgramC++/Chapter_2/numbers.h"
+#include "HowToProgramC++/Chapter_2/Printing.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/amount_dollars.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/arthimatic.h"
 #include "ObjectOrientedProgrammingInc++/Chapter_2/favorityPoem.h"
@@ -24,7 +25,7 @@ int main()
     // favoritePoem();
     // isLower();
     amount_dollars amount_dollars;
-    amount_dollars.anoumt_in_dollars();
+    // amount_dollars.anoumt_in_dollars();
     // anoumt_in_dollars();
     //===============================================================================================
     /*
@@ -32,7 +33,10 @@ int main()
      */
 
     numbers numbers;
-    numbers.arthimatic();
+    // numbers.arthimatic();
+
+
+    // printing.printNumbers();
     // =============================================================================================
     exerciseOne::exerciseOne exerciseOne;
     // exerciseOne.areaOfSphere();
